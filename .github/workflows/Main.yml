@@ -57,7 +57,6 @@ jobs:
           haxelib install hxCodec
           haxelib install newgrounds
           haxelib install actuate
-          haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git faxe https://github.com/ashea-code/faxe
           haxelib git linc_luajit https://github.com/MAJigsaw77/linc_luajit.git
           haxelib git extension-webm https://github.com/Sirox228/extension-webm.git
